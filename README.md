@@ -3,7 +3,7 @@
 1. CNTX Coins for Collateral (TIER-1 - 20001 CNTR, TIER-2 - 20003 CNTR, TIER-3 - 20006 CNTR)
 ***•TIER-1: https://masternodes.online/currencies/CNTX-T1/
 •TIER-2: https://masternodes.online/currencies/CNTX-T2/
-•TIER-3: https://masternodes.online/currencies/CNTX-T3/
+•TIER-3: https://masternodes.online/currencies/CNTX-T3/***
 
 2. Download your Local Wallet: https://github.com/Centexio/Centex/releases
 
