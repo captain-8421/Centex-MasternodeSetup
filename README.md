@@ -1,7 +1,7 @@
 # MasternodeSetup
 
 1. CNTX Coins for Collateral (TIER-1 - 20001 CNTR, TIER-2 - 20003 CNTR, TIER-3 - 20006 CNTR)
-***•TIER-1: https://masternodes.online/currencies/CNTX-T1/
+***•TIER-1: https://masternodes.online/currencies/CNTX-T1/ </br>
 •TIER-2: https://masternodes.online/currencies/CNTX-T2/
 •TIER-3: https://masternodes.online/currencies/CNTX-T3/***
 
