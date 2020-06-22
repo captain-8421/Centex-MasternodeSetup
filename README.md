@@ -7,7 +7,7 @@
 
 2. Download your Local Wallet: https://github.com/Centexio/Centex/releases
 
-3. You will need also VPS with Ubuntu 16.04, 18.04 , 19.04
+3. You will need also VPS with Ubuntu 16.04
 
 
 # Usage
