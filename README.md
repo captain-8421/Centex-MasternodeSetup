@@ -12,11 +12,11 @@
 
 # Usage
 
-1. After you longin on your VPS , with this command you will download masternode-installer.
+1. After you longin on your VPS , with this command you will download masternode-installer. </br>
 ```wget -q https://raw.githubusercontent.com/captain-8421/Centex/master/masternodeinstall.sh```
 
-2. With this command you will make masternodeinstall.sh executable.
+2. With this command you will make masternodeinstall.sh executable. </br>
 ```sudo chmod +x masternodeinstall.sh```
 
-3. Now install your masternode.
+3. Now install your masternode. </br>
 ```./masternodeinstall.sh```
